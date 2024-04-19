@@ -1,4 +1,4 @@
-Deploy: https://github.com/bestrada05/bestrada05.github.io
+Deploy: https://bestrada05.github.io/
 
 Fork 1: Paz Arancibia
 Repositorio: https://github.com/Nindecita/holamundogit
